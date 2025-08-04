@@ -1,0 +1,2 @@
+indicatorId,name,theme,lastDataUpdate,lastDataUpdateDescription,dataAvailability.totalRecordCount,dataAvailability.timeLine.min,dataAvailability.timeLine.max,dataAvailability.geoUnits.types,disaggregations,glossaryTerms
+LR.AG15T24,"Youth literacy rate, population 15-24 years, both sexes (%)",EDUCATION,2025-02-23,February 2025 Data Release,9916,1970,2023,"REGIONAL, NATIONAL",AgeRange:15-24,3195
